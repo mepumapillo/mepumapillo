@@ -1,13 +1,16 @@
-# Hi, I'm Miguel P. 👋
+<div align="center">
+  <img src="./banner.svg" alt="Miguel Analytics Banner" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
-
-### 📊 Web & Digital Analytics Specialist from Peru 🇵🇪
 
 [![Website](https://img.shields.io/badge/Website-miguelanalytics.dev-blue?style=flat-square&logo=google-chrome)](https://miguelanalytics.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miguelanalytics-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/miguelanalytics)
 [![TikTok](https://img.shields.io/badge/TikTok-@miguel.analytics-000000?style=flat-square&logo=tiktok)](https://tiktok.com/@miguel.analytics)
 [![YouTube](https://img.shields.io/badge/YouTube-@miguel.analytics-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@miguel.analytics)
+[![Instagram](https://img.shields.io/badge/Instagram-@miguelanalytics-E4405F?style=flat-square&logo=instagram)](https://instagram.com/miguelanalytics)
 
 </div>
 
